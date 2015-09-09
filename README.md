@@ -1,4 +1,4 @@
-# CloudCover_Serial
+##  CloudCover_Serial
 Calculate the cloud cover of a specific image using image streaming method.
 
 1. Use image-stream from one specific day to generate SKY REGION MASK.
